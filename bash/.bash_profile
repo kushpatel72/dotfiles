@@ -13,7 +13,6 @@ alias interview="mate /Users/kushpatel/Developer/rails-prep/interview/interview-
 
 . ~/.git-completion.bash
 . ~/.git-aliases
-. ~/.bashrc
 
 export PATH="/usr/local/bin:/usr/local/sbin:/usr/local/mysql/bin:$PATH"
 export PATH="$PATH:/Users/kushpatel/.bin"
