@@ -1,6 +1,3 @@
-[[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm" # Load RVM function
-[[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm" # Load RVM function
-
 alias s="sublime"
 alias ll="ls -lahG"
 alias gotapsgo="heroku db:pull"
